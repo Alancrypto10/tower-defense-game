@@ -4,7 +4,7 @@
       "version": "string",
       "response_status": "string"
     }
-  }
+
 
     "exception_info": {
       "type": "string, type of the exception logged in the event.",
@@ -21,3 +21,7 @@
       "oflPlay": "https://play.google.com/store/apps/details?id=tech.pylons.wallet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
       "oflIOS": "https://apps.apple.com/us/app/pylons/id1598732789"
     },
+
+    "bech32PrefixAccPub": "pylopub",
+    "bech32PrefixValAddr": "pylovaloper",
+    "bech32PrefixValPub": "pylovaloperpub",
