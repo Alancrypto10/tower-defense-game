@@ -1,0 +1,23 @@
+    "event_info": {
+      "log_message": "string",
+      "request_method": "string",
+      "version": "string",
+      "response_status": "string"
+    }
+  }
+
+    "exception_info": {
+      "type": "string, type of the exception logged in the event.",
+      "message": "string, exception message for the event."
+    },
+
+    "bondDenom": "uatom",
+    "powerReduction": 1000000,
+    "dynamicLink": {
+      "baseURL": "https://pylons.page.link",
+      "apn": "tech.pylons.wallet",
+      "ibi": "xyz.pylons.wallet",
+      "isi": "1598732789",
+      "oflPlay": "https://play.google.com/store/apps/details?id=tech.pylons.wallet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+      "oflIOS": "https://apps.apple.com/us/app/pylons/id1598732789"
+    },
